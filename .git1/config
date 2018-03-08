@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:Mlpichardo1/mongoTest.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
